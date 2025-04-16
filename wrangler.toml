@@ -17,4 +17,4 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 UUID = "a084cf8b-5825-43a0-b202-7bf6752f70ee"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/Ayambancai1/Siren/refs/heads/master/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/Ayambancai1/Siren/refs/heads/master/web/sub.html"
-PROXY_IP = "45.195.76.190:29690"
+LINK_PAGE_URL = "https://raw.githubusercontent.com/Ayambancai1/Siren/refs/heads/master/web/link.html"
